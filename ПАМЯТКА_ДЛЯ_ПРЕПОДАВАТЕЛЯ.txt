@@ -47,7 +47,7 @@ PowerShell:
 Строка 20:
 
 БЫЛО:
-  <property name="jakarta.persistence.jdbc.password" value="furia0324"/>
+  <property name="jakarta.persistence.jdbc.password" value="YOUR_PASSWORD_HERE"/>
 
 СТАЛО:
   <property name="jakarta.persistence.jdbc.password" value="ваш_пароль"/>
